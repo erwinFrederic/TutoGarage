@@ -1,6 +1,6 @@
 
-public abstract class Option {
+public interface Option {
 
-	public static Double getPrix;
+	public Double getPrix();
 
 }
